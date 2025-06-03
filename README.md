@@ -1,6 +1,6 @@
 # Controle de Gastos Mensais
 
-Uma aplicação simples e funcional desenvolvida em Python com interface gráfica, voltada para o registro de entradas e saídas mensais. Ideal para pessoas que desejam controlar suas finanças de forma prática, com arquivos gerados automaticamente e uma experiência amigável.
+Uma aplicação simples e funcional desenvolvida em Python com interface gráfica, voltada para o registro de entradas e saídas mensais.
 
 ---
 
@@ -70,15 +70,6 @@ A interface foi desenvolvida com foco na simplicidade:
 
 ---
 
-## Exemplos Visuais (opcional)
-
-Adicione prints da interface e exemplos dos relatórios, como:
-- Tela principal do programa
-- Exemplo de `relatorio_junho_2025.txt`
-- Exemplo de `relatorio_anual_2025.txt`
-
----
-
 ## Autor
 
 **Agatha Rodrigues**
@@ -86,9 +77,6 @@ Adicione prints da interface e exemplos dos relatórios, como:
 Se quiser me conhecer melhor ou ver outros projetos:
 
 - GitHub: [github.com/htarod](https://github.com/htarod)
-- Portfólio: [link do seu site ou LinkedIn]
-
----
 
 ## Distribuição
 
